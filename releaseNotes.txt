@@ -1,0 +1,7 @@
+resourceGen 2.0 Build 0 Release Notes
+
+This version is a complete rewrite
+CSV templates from resource.Gen all builds are compatible with this version.
+
+known Issues:
+	in the windows environment the .tmp files do not get cleaned up automatically.

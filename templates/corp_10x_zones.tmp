@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE archive SYSTEM "../../schema/xml/archive/arcsight-archive.dtd">
+<archive buildVersion="5.0.2.6904.3" user="admin" buildTime="04-20-2017_11:37:19.232" createTime="04-20-2017_11:37:19.232">
+  <ArchiveCreationParameters>
+    <action>insert</action>
+    <format>default</format>
+    <formatRoot></formatRoot>
+  </ArchiveCreationParameters>
