@@ -1,7 +1,3 @@
-resourceGen 2.0 Build 0 Release Notes
+resourceGen 2.0 Build 2 Release Notes
 
-This version is a complete rewrite
-CSV templates from resource.Gen all builds are compatible with this version.
-
-known Issues:
-	in the windows environment the .tmp files do not get cleaned up automatically.
+Added support for calculating start stop addresses from bit mask and subnet mask data in the stop address field.  use the m option in the normalize options.

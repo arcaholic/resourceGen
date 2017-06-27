@@ -49,7 +49,11 @@ Usage: java -jar resourceGen.jar -n teS -xml zones.csv
     t   Title Case Words
     e   format spaces around data (data) {data} <data> data
     s   trim leading and trailing spaces around-and
-    S   add leading and trailing spaces around - and 
+    S   add leading and trailing spaces around - and
+    m   add Start and Stop Address to Name when Stop Addres supplied is bitmask
+    M   add Start and Stop Address to Name when Stop Addres supplied is subnet mask
+
+Stop Address colum can contain IP ei 192.168.1.0, bitmask ie /24 or subnet ei 255.255.255.0
 
 
 Copyright © 2015 John Dickinson
