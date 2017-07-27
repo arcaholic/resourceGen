@@ -53,7 +53,7 @@ Usage: java -jar resourceGen.jar -n teS -xml zones.csv
     m   add Start and Stop Address to Name when Stop Addres supplied is bitmask
     M   add Start and Stop Address to Name when Stop Addres supplied is subnet mask
 
-Stop Address colum can contain IP ei 192.168.1.0, bitmask ie /24 or subnet ei 255.255.255.0
+Stop Address column can contain IP ei 192.168.1.0, bitmask ie /24 or subnet ei 255.255.255.0
 
 
 Copyright © 2015 John Dickinson
