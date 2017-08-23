@@ -6,8 +6,8 @@ Copyright © 2015
 Purpose
 This tool is used to convert CSV comma delimited data into XML format for use with ArcSight. 
 
-Use this application at your own risk. Always test your changes in a development system.
-Not supported by HPE
+Always test your changes in a development system.
+
 
 Features
 Convert CSV formatted customer data
@@ -45,13 +45,13 @@ Usage: java -jar resourceGen.jar -n teS -xml zones.csv
 -a          Display Author
 -v          Display Version
 -xml          convert to xml
--n          normalize {tesS}
+-n          normalize {tesSmM}
     t   Title Case Words
     e   format spaces around data (data) {data} <data> data
     s   trim leading and trailing spaces around-and
     S   add leading and trailing spaces around - and
-    m   add Start and Stop Address to Name when Stop Addres supplied is bitmask
-    M   add Start and Stop Address to Name when Stop Addres supplied is subnet mask
+    m   add Start and Stop Address to Name when Stop Address supplied is bitmask
+    M   add Start and Stop Address to Name when Stop Address supplied is subnet mask
 
 Stop Address column can contain IP ei 192.168.1.0, bitmask ie /24 or subnet ei 255.255.255.0
 
