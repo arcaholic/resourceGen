@@ -1,4 +1,7 @@
-resourceGen 2.0 Build 4 Release Notes
+resourceGen 2.0 Build 5 Release Notes
+
+2.0 Build 5
+Increased detection of errors in customer data. now detects ,'s and allows them to be used.
 
 2.0 Build 4
 Corrected bug that was doubling up the last word in the description of the zone.
